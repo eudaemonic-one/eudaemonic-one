@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**eudaemonic-one/eudaemonic-one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am Rong Cui, currently a Software Development Engineer based in New York, NY.
 
-Here are some ideas to get you started:
+I read books. I write blogs. I run [Lifelong-Learning](https://github.com/eudaemonic-one/Lifelong-Learning) project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m happy to share what I perceive, think, and learn. Thus, you can see that I’m the eudaemonic one.
+
+- 🔭 I’m currently doing some reading work such as Nonviolent Communication.
+- 🌱 I’m currently learning Effective Java, Java Concurrency, and Design Patterns.
+- 👯 I’m looking to collaborate on interesting distributed file systems projects.
+- 💬 Ask me about anything after you've read this brilliant article [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html).
+- 📫 How to reach me: my personal [website](https://www.eudaemonic.one/) (blogs, portfolio, bio). 
+- 😄 Pronouns: the Eudaemonic One.
+- ⚡ Fun fact: eudaemonia == eudemonia == eudaimonia.
