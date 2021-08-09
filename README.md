@@ -2,7 +2,7 @@
 
 Hi, I am Rong Cui.
 
-From Pittsburgh, PA, currently a Software Engineer based in New York, NY. Being eudaemonic everywhere.
+From Pittsburgh, PA, currently based in New York, NY. Being eudaemonic everywhere.
 
 Programmer👨🏻‍💻 | Footballer ⚽️ | Railfan 🚂 | Astronomer 🔭 | Tango Amateur 🕺 | Croissant Lover 🥐
 
