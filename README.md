@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-Hi, I am Rong Cui, currently a Software Development Engineer based in New York, NY.
+Hi, I am Rong Cui.
+
+From Pittsburgh, PA, currently a Software Engineer based in New York, NY. Being eudaemonic everywhere.
+
+Programmer👨🏻‍💻 | Footballer ⚽️ | Railfan 🚂 | Astronomer 🔭 | Tango Amateur 🕺 | Croissant Lover 🥐
+
+Thinking out loud everyday. Exploiting problem-solving skills. On the way toward a tasteful programmer and API designer.
 
 I read books. I write blogs. I run [Lifelong-Learning](https://github.com/eudaemonic-one/Lifelong-Learning) project.
 
