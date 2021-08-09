@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hi, I am Rong Cui.
+Hi, I am Rong Cui, currently a programmer based in New York, NY.
 
-From Pittsburgh, PA, currently a programmer based in New York, NY. Being eudaemonic everywhere.
+From Pittsburgh, PA. Being eudaemonic everywhere.
 
 Programmer👨🏻‍💻 | Footballer ⚽️ | Railfan 🚂 | Astronomer 🔭 | Tango Amateur 🕺 | Croissant Lover 🥐
 
