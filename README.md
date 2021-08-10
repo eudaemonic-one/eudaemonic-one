@@ -2,11 +2,9 @@
 
 Hi, I am Rong Cui, currently a programmer based in New York, NY.
 
-From Pittsburgh, PA. Being eudaemonic everywhere.
+From Pittsburgh, PA. Being eudaemonic everywhere. On the way toward a tasteful programmer and API designer.
 
 Programmer👨🏻‍💻 | Footballer ⚽️ | Railfan 🚂 | Astronomer 🔭 | Tango Amateur 🕺 | Croissant Lover 🥐
-
-Exploiting problem-solving skills. Thinking out loud everyday. On the way toward a tasteful programmer and API designer.
 
 I read books. I write blogs. I run [Lifelong-Learning](https://github.com/eudaemonic-one/Lifelong-Learning) project.
 
