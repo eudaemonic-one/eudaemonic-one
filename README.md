@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I am Rong Cui, currently a programmer based in New York, NY.
+Hi, I am Rong Cui, CMU ECE 21', currently a programmer based in New York, NY.
 
 From Pittsburgh, PA. Being eudaemonic everywhere. On the way toward a tasteful programmer and API designer.
 
